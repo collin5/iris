@@ -15,6 +15,8 @@ class Library(object):
     VIEWMENU = Pattern('viewMenu.png')
     MAINTENANCEBUTTON = Pattern('maintenanceButton.png')
     SEARCHFILTER = Pattern('searchFilter.png')
+    HISTORY = Pattern('history.png')
+    HISTORY_TODAY = Pattern('history_today.png')
     HISTORY_OLDER_THAN_6_MONTHS = Pattern('history_older_than_6_months.png')
     TAGS = Pattern('tags.png')
     ALL_BOOKMARKS = Pattern('all_bookmarks.png')

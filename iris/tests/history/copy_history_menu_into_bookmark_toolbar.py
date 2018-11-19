@@ -29,7 +29,7 @@ class Test(BaseTest):
         view_bookmarks_toolbar = LibraryMenu.BookmarksOption.BookmarkingTools.VIEW_BOOKMARKS_TOOLBAR
         bookmarks_toolbar_most_visited_pattern = SidebarBookmarks.BookmarksToolbar.MOST_VISITED
         library_pattern = Pattern('library.png')
-        history_pattern = Pattern('history.png')
+        history_pattern = Library.HISTORY
         copy_pattern = Pattern('copy.png')
         paste_pattern = Pattern('paste.png')
         history_bookmarks_toolbar_pattern = Pattern('history_bookmarks_toolbar.png')
